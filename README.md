@@ -55,7 +55,7 @@ But,
 
 > “Practice does not make perfect. Only **perfect practice** makes perfect.” ― Vince Lombardi
 
-Now, you are require to create a shiny app based on this Excel spreadsheet (refers inside for **inputs, outputs & some other labels**)
+Now, you are require to create a shiny app based on [this Excel spreadsheet](https://github.com/n-actuarial/r-shiny-intro/blob/main/R%20Shiny%20Assignment.xlsx) (refers inside for **inputs, outputs & some other labels**)
 
 To pass this assessment, you need to fulfill this list of requirements :upside_down_face:
 
