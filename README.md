@@ -23,8 +23,8 @@
 
 ### Book
 
-1. https://mastering-shiny.org/
-2. https://engineering-shiny.org/
+1. https://mastering-shiny.org/ 🌟
+2. https://engineering-shiny.org/ **[Optional]**
 
 ### Awesome Shiny Extension [Optional]
 
@@ -32,16 +32,31 @@
 
 ## R Packages
 
-1. https://r-pkgs.org/
+1. https://r-pkgs.org/ 🌟
 
 ## Github for R
 
-1. https://happygitwithr.com/
-2. n-actuarial internal doc: *\OneDrive\Work\TechDev\GitHub Handbook.pdf*
+1. https://happygitwithr.com/ 🌟
+2. n-actuarial internal doc: *\OneDrive\Work\TechDev\GitHub Handbook.pdf* 🌟
 
 ## shinyapps.io
 
-1. https://docs.rstudio.com/shinyapps.io/
+1. https://shiny.rstudio.com/articles/shinyapps.html 🌟
+2. https://docs.rstudio.com/shinyapps.io/
+
+*Note: All materials with 🌟 behind are recommended to study*
+
+## Recommended way to learn
+
+There is no best way to learn things, we usually learn by googling what we need & find answers in stackoverflow & other sites
+
+But here is the sequence you may consider to follow:
+
+1. Choose one of: [interactive course](https://rstudio-education.github.io/shiny-course/), [video](https://shiny.rstudio.com/tutorial/) or [Mastering Shiny book](https://mastering-shiny.org/), then go through it
+2. If you choose interactive course or video, you should go through [Mastering Shiny: Best practices](https://mastering-shiny.org/scaling-intro.html)
+3. Then, you should read our internal GitHub doc (*\OneDrive\Work\TechDev\GitHub Handbook.pdf*) for our development practices, and only refers to corresponding chapters in [Happy Git and GitHub for the useR](https://happygitwithr.com/) when needed, eg *'Connect Git, GitHub, RStudio'* when configure Git in Rstudio or *'Early GitHub Wins'* for R project setup
+4. After that, learn to wrap shiny app into R package, you may read [Mastering Shiny: Packages](https://mastering-shiny.org/scaling-packaging.html) & [R Packages: The whole game](https://r-pkgs.org/whole-game.html), and only read individual chapters when needed
+5. Lastly, go through [Shiny articles: Deployment](https://shiny.rstudio.com/articles/shinyapps.html), and try to deploy the app to shinyapps.io 
 
 ## Assessment (a.k.a Time to show your skills)
 
