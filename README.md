@@ -26,7 +26,7 @@
 1. https://mastering-shiny.org/
 2. https://engineering-shiny.org/
 
-### Awesome Shiny Extension
+### Awesome Shiny Extension [Optional]
 
 1. https://github.com/nanxstats/awesome-shiny-extensions
 
