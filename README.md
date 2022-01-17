@@ -81,6 +81,6 @@ To pass this assessment, you need to fulfill this list of requirements :upside_d
 5. Wrap the whole shiny app into R package **[Optional]**
 6. Use GitHub Action for CI/CD **[Optional]**
 
-After you satisfied with your work, you may then send the links of your GitHub repo (app source code) & the hosted web app (live Shiny app) to [Jone Keat](jonekeat.lim@n-actuarial.com) and cc [Debbie](minjyeh.ooi@n-actuarial.com)
+After you satisfied with your work, you may then send the links of your GitHub repo (app source code) & the hosted web app (live Shiny app) to *Jone Keat* and cc *Debbie*
 
 Lastly, Jone Keat & Debbie shall assess your work & provide feedbacks to you through emails or Microsoft Teams meeting.
