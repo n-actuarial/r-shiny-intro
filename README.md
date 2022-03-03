@@ -84,3 +84,9 @@ To pass this assessment, you need to fulfill this list of requirements :upside_d
 After you satisfied with your work, you may then send the links of your GitHub repo (app source code) & the hosted web app (live Shiny app) to *Jone Keat* and cc *Debbie*
 
 Lastly, Jone Keat & Debbie shall assess your work & provide feedbacks to you through emails or Microsoft Teams meeting.
+
+## Further Study
+
+Technically, shiny is a web application framework that tanslates R code to HTML. Therefore, it can work seemlessly with other web framework, and adding HTML, CSS & JS knowledge will definitely become helpful when building advance web application.
+
+1. https://github.com/microsoft/Web-Dev-For-Beginners
