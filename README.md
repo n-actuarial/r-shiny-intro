@@ -26,6 +26,10 @@
 1. https://mastering-shiny.org/ 🌟
 2. https://engineering-shiny.org/ **[Optional]**
 
+### Articles
+
+1. https://shiny.rstudio.com/articles/
+
 ### Awesome Shiny Extension [Optional]
 
 1. https://github.com/nanxstats/awesome-shiny-extensions
