@@ -11,6 +11,10 @@
 2. Create R package, including unit test, documentation, version control, etc
 3. DevOps skills, eg CI/CD using Github Action, deployment
 
+## R Style Guide
+
+Although we assumed you already familiar with R programming, but even expert programmers will have their own preferred code styles. To improve coding experience, we strongly encourage you to follow the [tidyverse style guide](https://style.tidyverse.org/index.html)
+
 ## Shiny
 
 ### Interactive course
