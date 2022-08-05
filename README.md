@@ -47,7 +47,6 @@ Although we assumed you already familiar with R programming, but even expert pro
 ## Github for R
 
 1. https://happygitwithr.com/ 🌟
-2. n-actuarial internal doc: *\OneDrive\Work\TechDev\GitHub Handbook.pdf* 🌟
 
 ## shinyapps.io
 
@@ -64,7 +63,7 @@ But here is the sequence you may consider to follow:
 
 1. Choose one of: [interactive course](https://rstudio-education.github.io/shiny-course/), [video](https://shiny.rstudio.com/tutorial/) or [Mastering Shiny book](https://mastering-shiny.org/), then go through it
 2. If you choose interactive course or video, you should go through [Mastering Shiny: Best practices](https://mastering-shiny.org/scaling-intro.html)
-3. Then, you should read our internal GitHub doc (*\OneDrive\Work\TechDev\GitHub Handbook.pdf*) for our development practices, and only refers to corresponding chapters in [Happy Git and GitHub for the useR](https://happygitwithr.com/) when needed, eg *'Connect Git, GitHub, RStudio'* when configure Git in Rstudio or *'Early GitHub Wins'* for R project setup
+3. Then, you should refers to corresponding chapters in [Happy Git and GitHub for the useR](https://happygitwithr.com/) when needed, eg *'Connect Git, GitHub, RStudio'* when configure Git in Rstudio or *'Early GitHub Wins'* for R project setup
 4. After that, learn to wrap shiny app into R package, you may read [Mastering Shiny: Packages](https://mastering-shiny.org/scaling-packaging.html) & [R Packages: The whole game](https://r-pkgs.org/whole-game.html), and only read individual chapters when needed
 5. Lastly, go through [Shiny articles: Deployment](https://shiny.rstudio.com/articles/shinyapps.html), and try to deploy the app to shinyapps.io 
 
@@ -90,10 +89,6 @@ To pass this assessment, you need to fulfill this list of requirements :upside_d
 4. Deploy it to shinyapps.io or other hosting providers
 5. Wrap the whole shiny app into R package **[Optional]**
 6. Use GitHub Action for CI/CD **[Optional]**
-
-After you satisfied with your work, you may then send the links of your GitHub repo (app source code) & the hosted web app (live Shiny app) to *Jone Keat* and cc *Debbie*
-
-Lastly, Jone Keat & Debbie shall assess your work & provide feedbacks to you through emails or Microsoft Teams meeting.
 
 ## Further Study
 
