@@ -3,7 +3,7 @@
 ## Prerequisite
 
 1. R programming
-2. Rstudio or Visual Studio Code
+2. RStudio or Visual Studio Code
 
 ## What you need to learn
 
