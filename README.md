@@ -90,6 +90,17 @@ To pass this assessment, you need to fulfill this list of requirements :upside_d
 5. Wrap the whole Shiny app into an R package **(Optional)**
 6. Use GitHub Action for CI/CD **(Optional)**
 
+## Sample Apps
+
+![Sample App 1](sample-app-1.png)
+*Sample App 1*
+
+![Sample App 2](sample-app-2.png)
+*Sample App 2*
+
+![Sample App 3](sample-app-3.png)
+*Sample App 3*
+
 ## Further Study
 
 Technically, Shiny is a web application framework that translates R code to HTML. Therefore, it can work seamlessly with other web frameworks, and adding HTML, CSS & JS knowledge will definitely prove helpful when building advanced web applications
