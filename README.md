@@ -23,10 +23,6 @@ Although we assumed you were already familiar with R programming, however, even 
 
 1. https://rstudio-education.github.io/shiny-course/
 
-### Video
-
-1. https://shiny.rstudio.com/tutorial/
-
 ### Book
 
 1. https://mastering-shiny.org/ 🌟
@@ -35,6 +31,10 @@ Although we assumed you were already familiar with R programming, however, even 
 ### Articles
 
 1. https://shiny.rstudio.com/articles/
+
+### Video
+
+1. https://www.youtube.com/playlist?list=PL9HYL-VRX0oRbLoj3FyL5zeASU5FMDgVe
 
 ### Awesome Shiny Extension (Optional)
 
@@ -61,7 +61,7 @@ There is no best way to learn things. We usually learn by googling what we need 
 
 But here is the sequence you may consider to follow:
 
-1. Choose one of the following: [interactive course](https://rstudio-education.github.io/shiny-course/), [video](https://shiny.rstudio.com/tutorial/) or [Mastering Shiny book](https://mastering-shiny.org/), then go through it
+1. Choose one of the following: [interactive course](https://rstudio-education.github.io/shiny-course/), [articles](https://shiny.rstudio.com/articles/) or [Mastering Shiny book](https://mastering-shiny.org/), then go through it
 2. If you choose interactive course or video, you should go through [Mastering Shiny: Best practices](https://mastering-shiny.org/scaling-intro.html)
 3. Then, you should refers to corresponding chapters in [Happy Git and GitHub for the useR](https://happygitwithr.com/) when needed, eg *'Connect Git, GitHub, RStudio'* when configuring Git in RStudio or *'Early GitHub Wins'* for R project setup
 4. After that, learn to wrap Shiny app into R package, you may read [Mastering Shiny: Packages](https://mastering-shiny.org/scaling-packaging.html) & [R Packages: The whole game](https://r-pkgs.org/whole-game.html), and only read individual chapters when needed
