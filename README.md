@@ -1,5 +1,7 @@
 # An introduction to R Shiny
 
+[Shiny](https://shiny.posit.co/) is an R package that makes it easy to build interactive web applications (apps) straight from R!
+
 ## Prerequisite
 
 1. R programming
@@ -8,24 +10,13 @@
 ## What you need to learn
 
 1. Use R Shiny to create web applications
-2. Create R packages, including unit tests, documentation, version control, etc
-3. DevOps skills, eg *CI/CD using Github Action, deployment
-
-*CI/CD = Continuous Integration or Continuous Delivery
+2. Deploy R Shiny apps on the web
 
 ## R Style Guide
 
 Although we assumed you were already familiar with R programming, however, even expert programmers will have their own preferred code styles. To improve our coding experience, we strongly encourage you to follow the [tidyverse style guide](https://style.tidyverse.org/index.html)
 
 ## Shiny
-
-### Interactive course
-
-1. https://rstudio-education.github.io/shiny-course/
-
-### Video
-
-1. https://shiny.rstudio.com/tutorial/
 
 ### Book
 
@@ -34,7 +25,15 @@ Although we assumed you were already familiar with R programming, however, even 
 
 ### Articles
 
-1. https://shiny.rstudio.com/articles/
+1. https://shiny.posit.co/r/articles/
+
+### Cheatsheet
+
+1. https://shiny.posit.co/r/articles/start/cheatsheet/
+
+### Video
+
+1. https://www.youtube.com/playlist?list=PL9HYL-VRX0oTOK4cpbCbRk15K2roEgzVW
 
 ### Awesome Shiny Extension (Optional)
 
@@ -42,7 +41,7 @@ Although we assumed you were already familiar with R programming, however, even 
 
 ## R Packages
 
-1. https://r-pkgs.org/ 🌟
+1. https://r-pkgs.org/
 
 ## Github for R
 
